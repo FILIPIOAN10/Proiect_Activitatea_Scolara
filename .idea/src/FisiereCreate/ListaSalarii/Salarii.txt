@@ -1,0 +1,26 @@
+JANUARY
+Profesor  ROMANA Ionescu - 3000.0
+FEBRUARY
+Profesor  ROMANA Ionescu - 3000.0
+MARCH
+Profesor  ROMANA Ionescu - 3000.0
+APRIL
+Profesor  ROMANA Ionescu - 3000.0
+MAY
+Profesor  ROMANA Ionescu - 3000.0
+JUNE
+Profesor  ROMANA Ionescu - 3000.0
+JULY
+Profesor  ROMANA Ionescu - 3000.0
+AUGUST
+Profesor  ROMANA Ionescu - 3000.0
+SEPTEMBER
+Profesor  ROMANA Ionescu - 3000.0
+OCTOBER
+Profesor  ROMANA Ionescu - 3000.0
+NOVEMBER
+Profesor  ROMANA Ionescu - 3000.0
+DECEMBER
+Profesor  ROMANA Ionescu - 3000.0
+
+Total anual - 36000

@@ -1,0 +1,6 @@
+Nr. 1 Adminul Admin 
+Nr. 2 Contabilul  Contabil
+Nr. 3 Popescu Elev 
+Nr. 4 Ionescu Profesor  
+Nr. 5 Parinte popescu  Parinte
+Nr. 6 Ionescu Elev 
