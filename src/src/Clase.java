@@ -1,6 +1,7 @@
 package src;
 
 public enum Clase {
+    ////
     CLASA_0,
     CLASA_1,
     CLASA_2,
