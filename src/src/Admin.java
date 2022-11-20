@@ -7,6 +7,8 @@ import java.nio.file.NoSuchFileException;
 import java.nio.file.Path;
 import java.util.regex.Pattern;
 
+// Adrian modifications
+
 public class Admin extends User {
     // constructorul adminului
     public Admin(String fullName, String email) {
